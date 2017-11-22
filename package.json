@@ -1,0 +1,19 @@
+{
+  "name": "signature-pad",
+  "version": "1.0.0",
+  "description": "signature-pad with canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingZha0/signature-pad.git"
+  },
+  "author": "irving",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingZha0/signature-pad/issues"
+  },
+  "homepage": "https://github.com/IrvingZha0/signature-pad#readme"
+}
